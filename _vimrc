@@ -11,7 +11,7 @@ if has('win32')
   call vundle#begin('$VIM/vimfiles/bundle')
 else
   call vundle#begin()
-endifwwwwwww
+endif
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 
